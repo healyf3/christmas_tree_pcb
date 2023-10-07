@@ -755,7 +755,7 @@ U 1 1 64F69B31
 P 5350 1300
 F 0 "CON1" H 5245 1540 50  0000 C CNN
 F 1 "AVR-ISP-6" H 5085 1070 50  0000 L BNN
-F 2 "Connectors_Multicomp:Multicomp_MC9A12-1034_2x05x2.54mm_Straight" V 4830 1340 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" V 4830 1340 50  0001 C CNN
 F 3 "" H 5325 1300 50  0001 C CNN
 	1    5350 1300
 	1    0    0    -1  

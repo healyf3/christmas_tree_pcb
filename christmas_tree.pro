@@ -1,4 +1,4 @@
-update=Tuesday, January 18, 2022 'PMt' 06:25:23 PM
+update=Thursday, October 05, 2023 'PMt' 09:52:40 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=/Users/hfuess/Documents/eng_projects/kkad_libs/snapeda_pushbutton/1825910-6
+LibName31=/Users/hfuess/Documents/eng_projects/kkad_libs/SEN-08880/SEN-08880
