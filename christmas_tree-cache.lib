@@ -355,6 +355,49 @@ X Pin_16 16 -200 -800 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# EG2201A
+#
+DEF EG2201A S 0 40 Y N 1 L N
+F0 "S" -100 400 50 H V L BNN
+F1 "EG2201A" -100 -400 50 H V L BNN
+F2 "SW_EG2201A" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "E-Switch" 0 0 50 H I L BNN "MF"
+F5 "17 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "None" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/EG2201A/E-Switch/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F10 "C" 0 0 50 H I L BNN "PARTREV"
+F11 "https://www.snapeda.com/parts/EG2201A/E-Switch/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "EG2201A" 0 0 50 H I L BNN "MP"
+F13 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=304400&manufacturer=E-Switch&part_name=EG2201A&search_term=eg2201a" 0 0 50 H I L BNN "Purchase-URL"
+F14 "\\nSlide Switch, EG Series, DPDT, Non-Shorting, ON-ON, 200mA DC, 30VDC, PC Pin | E-Switch EG2201A\\n" 0 0 50 H I L BNN "Description"
+F15 "E-Switch" 0 0 50 H I L BNN "MANUFACTURER"
+F16 "In Stock" 0 0 50 H I L BNN "Availability"
+F17 "EG2201B" 0 0 50 H I L BNN "SNAPEDA_PN"
+DRAW
+C 100 -300 13 0 0 6 N
+C 100 -100 13 0 0 6 N
+C 100 100 13 0 0 6 N
+C 100 300 13 0 0 6 N
+P 2 0 0 6 -100 -200 -200 -200 N
+P 2 0 0 6 -100 -200 110 -116 N
+P 2 0 0 6 -100 200 -200 200 N
+P 2 0 0 6 -100 200 110 284 N
+P 2 0 0 6 200 -300 115 -300 N
+P 2 0 0 6 200 -100 115 -100 N
+P 2 0 0 6 200 100 115 100 N
+P 2 0 0 6 200 300 115 300 N
+X ~ 1 300 300 100 L 40 40 0 0 P
+X ~ 2 -300 200 100 R 40 40 0 0 P
+X ~ 3 300 100 100 L 40 40 0 0 P
+X ~ 4 300 -100 100 L 40 40 0 0 P
+X ~ 5 -300 -200 100 R 40 40 0 0 P
+X ~ 6 300 -300 100 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
 # GND
 #
 DEF GND #PWR 0 0 Y Y 1 F P
