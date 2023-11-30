@@ -1,0 +1,22 @@
+### Module positions - created on Sunday, November 19, 2023 'PMt' 01:27:34 PM ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                          PosX       PosY       Rot  Side
+R1        1.5         R_0603_HandSoldering                         164.8206   -81.1911    0.0000  top
+R2        1.5         R_0603_HandSoldering                         146.1135   -58.8975    0.0000  top
+R3        1.5         R_0603_HandSoldering                         138.4325   -72.8624    0.0000  top
+R4        1.5         R_0603_HandSoldering                         155.9052   -48.7807    0.0000  top
+R5        1.5         R_0603_HandSoldering                         138.5545  -121.7905    0.0000  top
+R6        10k         R_0603_HandSoldering                         162.8343  -137.7950    0.0000  top
+R7        1.5         R_0603_HandSoldering                         143.3627  -127.4623    0.0000  top
+R8        1.5         R_0603_HandSoldering                         170.1571  -118.1608    0.0000  top
+R13       10k         R_0603_HandSoldering                         148.5849   -51.3055    0.0000  top
+U1        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   168.1937   -90.6932   35.0000  top
+U2        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   137.0787   -55.7682  320.0000  top
+U4        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   130.5560   -81.4832  325.0000  top
+U5        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   159.1208   -58.1000   35.0000  top
+U6        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   126.5758  -123.3932  320.0000  top
+U8        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   137.9550  -135.2931    0.0000  top
+U9        TLC5940PWP  HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad   171.3255  -128.5799   30.0000  top
+## End
